@@ -1,5 +1,16 @@
 // 네오픽셀로 크리스마스 트리만들기 프로젝트
-
+/*
+code for arduino 
+    https://github.com/happythingsmaker/ChristmasNeoPixel/blob/master/171125_ChristmasNeoPixel.ino
+3d models 
+    https://www.thingiverse.com/thing:2668669
+Youtube Video
+    https://www.youtube.com/watch?v=257uMjfjePQ
+Instruction (Korean) 
+    https://happythingsmaker.gitbooks.io/christmasneopixel/content/
+Creator's blog 
+    http://happyThingsMaker.com
+*/
 #include <Adafruit_NeoPixel.h>
 //#include <Bounce2.h>
 
